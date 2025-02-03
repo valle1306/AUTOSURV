@@ -1,0 +1,8 @@
+{
+    "opt_l2": 0.005,
+    "opt_lr": 0.05,
+    "opt_dim": 32,
+    "opt_epoch_num": 1600,
+    "opt_num_cycle": 2,
+    "opt_cr": 0.3
+}
